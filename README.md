@@ -7,7 +7,7 @@
 - [Medication Tracker](https://github.com/annmarie2/meds_tracker) - A Flutter project that keeps track of medications. It will alert you when a medication needs to be taken. The alarm setting can be toggled on or off.
 - [Lundar Lander](https://github.com/annmarie2/LunarLander) - A JS take on the classic Lunar Lander game genre.
 
-🤔 Perpetually pondering the etymological significance of programming language names (Rust, Ruby on Rails, Python, Go, Java, Swift -- somewhat informal, is there a reason?)
+🤔 Perpetually pondering the etymological significance of programming language names (Rust, Ruby on Rails, Python, Go, Java, Swift)
 
 👯 Very interested in how people think about tech and where those conceptualizations come from
 
