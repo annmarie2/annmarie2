@@ -9,7 +9,7 @@
 
 🤔 Perpetually pondering the etymological significance of programming language names (Rust, Ruby on Rails, Python, Go, Java, Swift -- somewhat informal, is there a reason?)
 
-👯 Very interested in how people think about tech and where those conceptualizations came from
+👯 Very interested in how people think about tech and where those conceptualizations come from
 
 <!--
 **annmarie2/annmarie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
